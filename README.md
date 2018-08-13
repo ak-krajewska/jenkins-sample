@@ -5,13 +5,13 @@ This section of will teach you how to create new users and to manage their permi
 
 Table of Contents
 -----------------
-1. Create Users
-2. Download and Install the Role Strategy Plugin
+1. [Create Users](#create)
+2. [Download and Install the Role Strategy Plugin](#download-and-install-the-role-strategy-plugin)
 3. Enable Role-Based Strategy
 4. Create Roles
 5. Assign Roles to Users
 
-Create Users
+<a name="create"></a>Create Users
 ------------
 
 1. Log into Jenkins as an administrator. 
