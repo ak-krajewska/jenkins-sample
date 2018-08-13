@@ -26,7 +26,7 @@ Create Users
 Download and Install the Role Strategy Plugin
 ---------------------------------------------
 
-*If you have already downloaded and installed the Role Strategy Plugin, proceed to Enable Role-Based Strategy.*
+*If you have already downloaded and installed the Role Strategy Plugin, proceed to [Enable Role-Based Strategy](#enable-role-based-strategy).*
 
 1. In the main Jenkins menu on the left, select **Manage Jenkins**.
 2. Select **Manage Plugins** from the list of options.
@@ -41,7 +41,7 @@ Enable Role-Based Strategy
 1. In the main Jenkins menu on the left, select **Manage Jenkins**.
 2. Select **Configure Global Security** from the list of options.
 3. Select the checkbox next to **Enable security**.
-4. In the Authorization section, select the radio button next to **Role Based Strategy**. (If that option isn't available, verify that you have downloaded and installed the Role Strategy Plugin.)
+4. In the Authorization section, select the radio button next to **Role Based Strategy**. (If that option isn't available, verify that you have downloaded and installed the [Role Strategy Plugin](#download-and-install-the-role-strategy-plugin).)
 5. Click **Apply** and then **Save**. You will return to the Manage Jenkins menu. 
 
 Create Roles
